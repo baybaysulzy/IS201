@@ -1,0 +1,52 @@
+.headingsize {
+    font-size: 4rem;
+}
+    
+.otherheader {
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+    text-align: center;
+    color: #fff;
+}
+    
+.aboutp {
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+  
+.aboutimg {
+    margin-bottom: 2rem  !important;
+    margin-top: 1rem;
+    }
+    
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+      
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+a.id 
+{
+  margin-left: 1rem;
+}
+
+/* Facebook */
+.fa-facebook {
+    color: white;
+}
+    
+/* Twitter */
+.fa-twitter {
+    color: white;
+}
+ 
+/* LinkedIn */
+.fa-linkedin {
+    color: white;
+}

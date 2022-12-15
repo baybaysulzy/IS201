@@ -1,0 +1,152 @@
+/*  Bailey Sulzen 12.16.22*/
+/*     */
+
+nav {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+    /* Custom Background Color */
+    background-color: #FFFFFF;
+
+}
+
+a {
+    /* Font-Size Specification */
+    font-size: 1.25rem;
+    /* Font-Color Specification */
+    color: #FFFFFF;
+}
+
+
+h1 {
+    /* Font-Color Specification */
+    color: #FFFFFF;
+    text-align: center;
+    /* Font-Size Specification */
+    font-size: 4.5rem;
+    margin-bottom: 1rem;
+    /* Font-Family Specification */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+h2 {
+    /* Font-Color Specification */
+    color: #FFFFFF;
+    margin-left: 1rem;
+    /* Font-Size Specification */
+    font-size: 2rem;
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+  }
+
+h3 {
+    color: #FFFFFF;
+    /* Font-Size Specification */
+    font-size: 1.5rem;
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+img {
+    height: 400px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    padding-left: 8rem;
+    padding-right: 2rem;
+}
+
+.imagecontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+   
+.image {
+    flex-basis: 40%
+  }
+  
+  /* Divs Positioned and Styled */
+.text {
+    font-size: 20px;
+    padding-left: 3rem;
+    padding-right: 6rem;
+    /* Font-Color Specification */
+    color: #FFFFFF;
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+p.text {
+    /* Font-Size Specification */
+    font-size: 20px;
+    /* Font-Color Specification */
+    color: #FFFFFF;
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+    margin-left: -3rem;
+}
+
+li {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+/* Divs Positioned and Styled */
+div.center {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+}
+
+/* Divs Positioned and Styled */
+div.tableauPlaceholder {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+
+}
+
+body {
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+    /* Custom Background Image */
+    background-image: url('../img/Blue\ BG.jpg');
+    background-position: center;
+}
+
+  
+footer {
+    /* Custom Background Color */
+    background-color: #FFFFFF;
+    left: 0rem; 
+    right: 0rem; 
+    margin-top: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    height:60px;
+}
+
+p {
+    /* Font-Color Specification */
+    color: black;
+    /* Font-Family Specification */
+    font-family: "Open Sans", Helvetica, sans-serif;
+    width: 100%;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    width: 100%;
+    padding-right: 7rem;
+    padding-left: 7rem;
+    margin-right: auto;
+    margin-left: auto;
+    /* Font-Color Specification */
+    color: #65c3e0;
+    /* Font-Size Specification */
+    font-size: 2rem;
+  }
